@@ -16,11 +16,11 @@
   </project>
 
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="mnt-sh/android_bionic" remote="github" revision="jb-4.3" />
+  <project path="bionic" name="Mnt-XDAandroid_bionic" remote="github" revision="jb-4.3" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="mnt-sh/android_dalvik" remote="github" revision="jb-4.3" />
+  <project path="dalvik" name="Mnt-XDAandroid_dalvik" remote="github" revision="jb-4.3" />
   <project path="development" name="CyanogenMod/android_development" remote="github" revision="cm-10.2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
@@ -29,11 +29,11 @@
   <project path="device/generic/mips" name="device/generic/mips" />
   <project path="device/generic/x86" name="device/generic/x86" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/jf-common" name="mnt-sh/android_device_samsung_jf-common" groups="pdk" remote="github" revision="jb-4.3" />
-  <project path="device/samsung/jfltexx" name="mnt-sh/android_device_samsung_jfltexx" groups="pdk" remote="github" revision="jb-4.3" />
-  <project path="device/samsung/msm8960-common" name="mnt-sh/android_device_samsung_msm8960-common" groups="pdk" remote="github" revision="jb-4.3" />
-  <project path="device/samsung/qcom-common" name="mnt-sh/android_device_samsung_qcom-common" groups="pdk" remote="github" revision="jb-4.3" />
-  <project path="device/samsung/i9500" name="mnt-sh/android_device_samsung_i9500" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="device/samsung/jf-common" name="Mnt-XDAandroid_device_samsung_jf-common" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="device/samsung/jfltexx" name="Mnt-XDAandroid_device_samsung_jfltexx" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="device/samsung/msm8960-common" name="Mnt-XDAandroid_device_samsung_msm8960-common" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="device/samsung/qcom-common" name="Mnt-XDAandroid_device_samsung_qcom-common" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="device/samsung/i9500" name="Mnt-XDAandroid_device_samsung_i9500" groups="pdk" remote="github" revision="jb-4.3" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -206,8 +206,8 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="cm-10.2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-10.2" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="mnt-sh/android_frameworks_av" remote="github" revision="jb-4.3" />
-  <project path="frameworks/base" name="mnt-sh/android_frameworks_base" remote="github" revision="jb-4.3" />
+  <project path="frameworks/av" name="Mnt-XDAandroid_frameworks_av" remote="github" revision="jb-4.3" />
+  <project path="frameworks/base" name="Mnt-XDAandroid_frameworks_base" remote="github" revision="jb-4.3" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
@@ -226,7 +226,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
-  <project path="frameworks/opt/telephony" name="mnt-sh/android_frameworks_opt_telephony" remote="github" revision="jb-4.3" />
+  <project path="frameworks/opt/telephony" name="Mnt-XDAandroid_frameworks_opt_telephony" remote="github" revision="jb-4.3" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="github" revision="cm-10.2" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" remote="github" revision="cm-10.2" groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" />
@@ -234,7 +234,7 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="kernel/samsung/exynos5410" name="mnt-sh/android_kernel_samsung_exynos5410" remote="github" revision="jb-4.3" />
+  <project path="kernel/samsung/exynos5410" name="Mnt-XDAandroid_kernel_samsung_exynos5410" remote="github" revision="jb-4.3" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" remote="github" revision="cm-10.2" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="github" revision="cm-10.2" />
@@ -266,7 +266,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="mnt-sh/android_packages_apps_Bluetooth" remote="github" revision="jb-4.3" />
+  <project path="packages/apps/Bluetooth" name="Mnt-XDAandroid_packages_apps_Bluetooth" remote="github" revision="jb-4.3" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
@@ -291,12 +291,12 @@
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="mnt-sh/android_packages_apps_Phone" remote="github" revision="jb-4.3" />
+  <project path="packages/apps/Phone" name="Mnt-XDAandroid_packages_apps_Phone" remote="github" revision="jb-4.3" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="mnt-sh/android_packages_apps_Settings" remote="github" revision="jb-4.3" />
+  <project path="packages/apps/Settings" name="Mnt-XDAandroid_packages_apps_Settings" remote="github" revision="jb-4.3" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -366,7 +366,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" revision="cm-10.2" />
-  <project path="system/core" name="mnt-sh/android_system_core" groups="pdk" remote="github" revision="jb-4.3" />
+  <project path="system/core" name="Mnt-XDAandroid_system_core" groups="pdk" remote="github" revision="jb-4.3" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="cm-10.2" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="cm-10.2" />
@@ -383,5 +383,5 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" remote="github" revision="cm-10.2" />
-  <project path="vendor/samsung" name="mnt-sh/proprietary_vendor_samsung" remote="github" revision="jb4.3" />
+  <project path="vendor/samsung" name="Mnt-XDAproprietary_vendor_samsung" remote="github" revision="jb4.3" />
 </manifest>
